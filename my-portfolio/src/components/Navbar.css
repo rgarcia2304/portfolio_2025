@@ -1,0 +1,9 @@
+ul:visited{
+    text-decoration: none;
+  }
+
+  ul{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
